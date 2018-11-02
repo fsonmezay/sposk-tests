@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37c9ddcb-6fbe-493a-a996-2a3f32a80c4c" name="Default" comment="" />
+    <list default="true" id="37c9ddcb-6fbe-493a-a996-2a3f32a80c4c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/groovy/spock/ekx/Publisher.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/groovy/spock/ekx/Subscriber.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/test/groovy/spock/ekx/PublisherSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/server/.gradle/" />
@@ -31,15 +38,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="753">
               <caret line="89" column="23" lean-forward="true" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApplicationController.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/grails-app/controllers/spock/ekx/ApplicationController.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -77,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FstestControllerSpec.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FstestControllerSpec.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/src/test/groovy/spock/ekx/FstestControllerSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-372">
@@ -85,6 +83,33 @@
               <folding>
                 <element signature="e#19#70#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Publisher.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/groovy/spock/ekx/Publisher.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PublisherSpec.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/src/test/groovy/spock/ekx/PublisherSpec.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subscriber.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/groovy/spock/ekx/Subscriber.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -107,21 +132,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/grails-app/conf/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="113" selection-start-line="113" selection-end-line="115" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>data</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -1346,6 +1365,10 @@
         <option value="$PROJECT_DIR$/server/grails-app/controllers/spock/ekx/FstestController.groovy" />
         <option value="$PROJECT_DIR$/server/src/test/groovy/spock/ekx/SimpleTest.groovy" />
         <option value="$PROJECT_DIR$/server/src/test/groovy/spock/ekx/FstestControllerSpec.groovy" />
+        <option value="$PROJECT_DIR$/server/src/main/groovy/Publisher.groovy" />
+        <option value="$PROJECT_DIR$/server/src/main/groovy/spock/ekx/Publisher.groovy" />
+        <option value="$PROJECT_DIR$/server/src/main/groovy/spock/ekx/Subscriber.groovy" />
+        <option value="$PROJECT_DIR$/server/src/test/groovy/spock/ekx/PublisherSpec.groovy" />
       </list>
     </option>
   </component>
@@ -1363,6 +1386,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -1393,36 +1417,37 @@
               <item name="spock-ekx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spock-ekx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spock-ekx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="ekx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spock-ekx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spock-ekx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spock-ekx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spock-ekx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="grails-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="ekx" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spock-ekx" type="b2602c69:ProjectViewProjectNode" />
               <item name="spock-ekx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spock-ekx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spock-ekx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spock-ekx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spock-ekx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spock-ekx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spock-ekx" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="ekx" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spock-ekx" type="b2602c69:ProjectViewProjectNode" />
@@ -1477,6 +1502,9 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="spock.ekx" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="spock.ekx" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="spock.lang.Specification" />
     </key>
@@ -1493,7 +1521,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FstestControllerSpec.createStudent allowed #methods">
+  <component name="RunManager" selected="JUnit.PublisherSpec.should send messages to all subscribers">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -1519,29 +1547,6 @@
       <option name="MAIN_CLASS_NAME" value="spock.ekx.FstestControllerSpec" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="FstestControllerSpec.createStudent #method is accepted #isAccepted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="server_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="spock.ekx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="spock.ekx" />
-      <option name="MAIN_CLASS_NAME" value="spock.ekx.FstestControllerSpec" />
-      <option name="METHOD_NAME" value="createStudent #method is accepted #isAccepted" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -1587,6 +1592,29 @@
       <option name="PACKAGE_NAME" value="spock.ekx" />
       <option name="MAIN_CLASS_NAME" value="spock.ekx.FstestControllerSpec" />
       <option name="METHOD_NAME" value="savetest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PublisherSpec.should send messages to all subscribers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spock.ekx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="spock.ekx" />
+      <option name="MAIN_CLASS_NAME" value="spock.ekx.PublisherSpec" />
+      <option name="METHOD_NAME" value="should send messages to all subscribers" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1660,19 +1688,19 @@
     </configuration>
     <list>
       <item itemvalue="Grails.Grails: server" />
-      <item itemvalue="JUnit.FstestControllerSpec.createStudent #method is accepted #isAccepted" />
       <item itemvalue="JUnit.FstestControllerSpec.createStudent allowed #methods" />
       <item itemvalue="JUnit.FstestControllerSpec.savetest" />
       <item itemvalue="JUnit.SimpleTest.List Invocation Calls Test" />
       <item itemvalue="JUnit.FstestControllerSpec" />
+      <item itemvalue="JUnit.PublisherSpec.should send messages to all subscribers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PublisherSpec.should send messages to all subscribers" />
         <item itemvalue="JUnit.FstestControllerSpec.createStudent allowed #methods" />
         <item itemvalue="JUnit.FstestControllerSpec.savetest" />
         <item itemvalue="JUnit.FstestControllerSpec" />
         <item itemvalue="JUnit.SimpleTest.List Invocation Calls Test" />
-        <item itemvalue="JUnit.FstestControllerSpec.createStudent #method is accepted #isAccepted" />
       </list>
     </recent_temporary>
   </component>
@@ -1686,17 +1714,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541086198229</updated>
-      <workItem from="1541086210048" duration="13863000" />
+      <workItem from="1541086210048" duration="14760000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FstestControllerSpec_createStudent_allowed_#methods - 2018.11.02 at 09h 59m 06s.xml">
-      <configuration name="FstestControllerSpec.createStudent allowed #methods" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FstestControllerSpec_createStudent_allowed_#methods - 2018.11.02 at 09h 59m 38s.xml">
-      <configuration name="FstestControllerSpec.createStudent allowed #methods" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FstestControllerSpec_savetest - 2018.11.02 at 10h 01m 02s.xml">
       <configuration name="FstestControllerSpec.savetest" configurationId="JUnit" />
     </history-entry>
@@ -1721,9 +1743,15 @@
     <history-entry file="FstestControllerSpec_createStudent_allowed_#methods - 2018.11.02 at 10h 08m 57s.xml">
       <configuration name="FstestControllerSpec.createStudent allowed #methods" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PublisherSpec_should_send_messages_to_all_subscribers - 2018.11.02 at 10h 41m 53s.xml">
+      <configuration name="PublisherSpec.should send messages to all subscribers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PublisherSpec_should_send_messages_to_all_subscribers - 2018.11.02 at 10h 42m 07s.xml">
+      <configuration name="PublisherSpec.should send messages to all subscribers" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13863000" />
+    <option name="totallyTimeSpent" value="14760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
@@ -1748,8 +1776,8 @@
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33865815" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34010696" />
       <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32959402" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
@@ -2128,6 +2156,27 @@
           <folding>
             <element signature="e#19#70#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/groovy/spock/ekx/Subscriber.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/groovy/spock/ekx/Publisher.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/test/groovy/spock/ekx/PublisherSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
